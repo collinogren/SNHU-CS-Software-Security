@@ -1,3 +1,4 @@
+# SNHU CS Software Security
 ## CS 305 Module Eight Journal
 ### Artemis Financial Practices for Secure Software Report
 1. Artemis Financial is a financial firm which runs a web service that handles the sensitive financial information of its users which includes clients as high profile as international business and government agencies. Artemis Financial requested that their web application be updated to comply with their software security standards and ensure high-quality, secure code.
